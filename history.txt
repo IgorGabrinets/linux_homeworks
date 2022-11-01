@@ -1,0 +1,23 @@
+   0 ls -1
+   1 / ls -1
+   2 cd
+   3 cd //
+   4 opt
+   5 /opt
+   6 cd/ opt/
+   7 opt/
+   8 https://bellard.org/jslinux/
+   9 cd opt
+  10 dc/
+  11 cd/
+  12 cd /
+  13 tree /cd
+  14 ls/etc
+  15 ls /etc
+  16 cat /proc/cpuinfo
+  17 вфеу
+  18 date
+  19 df -h
+  20 top
+  21 history
+  22 history > history.txt
